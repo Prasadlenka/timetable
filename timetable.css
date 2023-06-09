@@ -1,0 +1,17 @@
+tr{background-color: white;
+   
+    
+    
+}
+td{
+    color: blueviolet;
+    
+}
+th{
+    background-color: thistle;
+   
+}
+table{
+    border-collapse: collapse;
+    border: 1px;
+}
